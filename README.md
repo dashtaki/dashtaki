@@ -24,5 +24,5 @@
 With a strong focus on **Product Solutions** and a passion for delivering exceptional **Customer Experiences**, I excel at transforming complex challenges into elegant, scalable solutions that drive impact.
 
 - 💡 **Engineering Expertise**: Crafting seamless, user-centric frontends with JS frameworks and technologies.  
-- 🔭 **Current Focus**: Driving transformative product development in projects by investigating the solutions by discovery and delivery.
+- 🔭 **Current Focus**: Driving transformative product development by investigating the solutions by discovery and delivery.
 - 🚀 **Mission**: To redefine the intersection of technology, design, and functionality—creating products that truly matter.  
