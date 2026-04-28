@@ -1,5 +1,5 @@
 # 👋 Hey there, I'm MJ!
-**Senior Frontend/Product Engineer**
+**Principal Frontend/Product Engineer**
 
 ![Javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow)
 ![Typescript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007ACC)
